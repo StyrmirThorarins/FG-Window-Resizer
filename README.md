@@ -1,5 +1,5 @@
 # FG-Window-Resizer-5E
-An extension that adds menu options to resize most of the windows in FG for easier readbility.
+An extension that adds menu options to resize most of the windows in FG for easier readability.
 
 When the campaign
 
