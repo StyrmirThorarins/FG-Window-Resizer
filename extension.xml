@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root version="3.0" logo="logo.png">
+	<properties>
+		<name>Window Resizer 5E</name>
+		<version>1.0</version>
+		<author>Styrmir T.</author>
+		<description>Options for making many of the windows wider and taller than by default, for easier reading.</description>
+		<ruleset>Any</ruleset>			
+	</properties>
+
+	<announcement text="Window Resizer 5E" font="systemfont" />		
+
+	<base>							
+		<script name="RegisterMenuItems" file="scripts/menu_item_register.lua" />
+		<script name="WindowResize" file="scripts/window_resize.lua" />
+
+		<!-- menu_item_register: Menu items for Interface Modifier 5E -->
+		<string name="option_header_interfacechanger5e">Window Resizer 5E</string>			
+		<string name="option_backgrounds">Backgrounds</string>		
+		<string name="option_classes">Classes</string>	
+		<string name="option_npc_powers">CT NPC powers</string>	
+		<string name="option_feats">Feats</string>	
+		<string name="option_items">Items</string>	
+		<string name="option_notes">Notes</string>	
+		<string name="option_npc">NPC</string>	
+		<string name="option_races">Races</string>	
+		<string name="option_pc_ability">PC abilities</string>			
+		<string name="option_skills">Skills</string>	
+		<string name="option_story">Story</string>	
+		<string name="option_spells">Spells</string>	
+		<string name="option_quests">Quests</string>			  		  		  							
+	</base>
+</root>
